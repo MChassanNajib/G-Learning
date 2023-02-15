@@ -1,0 +1,862 @@
+
+// .logo{
+//     text-transform: uppercase;
+//     img{
+//         padding-bottom: 10px;
+//     }
+//     span{
+//         margin-left: 10px;
+//         font-size: 22px;
+        
+        
+//     }
+// }
+// .navbar{
+//     background-color: #F0F4F9;
+    
+// }
+// .navlist{
+//     list-style: none;
+//     display: flex;
+//     a{
+//         text-decoration: none;
+//         color: black;
+//         margin-right: 30px;
+//         &:hover{
+//             color: #FDC800;
+//         }
+//     }
+    
+// }
+// // start mobile navigation
+// .ham{
+//     display: none;
+// }
+// .mobile-nav.container{
+//     background-color: #FDC800;
+//     display: none;
+  
+    
+//     border-radius: 10px;
+//     margin-top: 20px;
+    
+
+    
+// }
+
+
+// .sign-up-search{
+//     display: flex;
+//     margin-left: 40px;
+    
+
+// }
+
+
+// .navlist-mobile{
+//     margin-right: auto;
+//     margin-left: auto;
+//     list-style: none;
+//     padding-top: 10px;
+//     padding-left: 0%;
+//     padding-right: 20px;
+//     // display: none;
+//     a{
+//         color: black;
+//         text-decoration: none;
+//     }
+//     li{
+//         margin-bottom: 5px;
+//     }
+//     .sign-up-search{
+        
+//         margin: 0%;
+//         margin-top: 30px;
+//         i{
+//             color: black;
+//             margin-right: 5px;
+//             margin-left: 5px;
+            
+//         }
+//         input{
+//             border: 0px;
+           
+
+//         }
+//         .search{
+//             border-radius: 5px;
+//         }
+       
+       
+//         .sign-up-btn{
+//             padding: 5px 25px;
+//             margin-left: 10px;
+//             background-color: white;
+//             a{
+//                 color: black;
+//                 text-decoration: none;
+
+//             }
+
+//         }
+//         .sign-in-btn{
+//             padding: 5px 25px;
+//             margin-left: 10px;
+//             border: 2px solid white;
+//             background-color: #FDC800;
+//             a{
+//                 color: black;
+//                 text-decoration: none;
+
+//             }
+
+//         }
+        
+
+    
+//     }
+
+// }
+// .close-btn{
+//     margin-bottom: 280px;
+//     font-size: 18px;
+//     color: black;
+//     &:hover{
+//         color: black;
+//     }
+// }
+
+// // end mobile navigation
+
+// .sign-up-btn{
+//     a{
+//         margin-right: 0px;
+//         padding: 5px 25px;
+//         font-weight: bold;
+//     }
+//     background-color: #FDC800;
+   
+//     border-radius: 5px;
+//     margin-right: 10px;
+//     padding:5px 0px;
+//     margin-top: 5px;
+//     border: 2px solid #FDC800;
+    
+//     &:hover{
+//         background-color: white;
+//         border: 2px solid #FDC800;
+//         a{
+//             color: #FDC800;
+//             font-weight: bold;
+//         }
+//     }
+// }
+// .sign-in-btn{
+//     a{
+//         margin-right: 0px;
+//         padding: 5px 25px;
+//         font-weight: bold;
+//         color: #FDC800;
+//     }
+//     background-color: white;
+   
+//     border-radius: 5px;
+//     margin-right: 10px;
+//     padding:5px 0px;
+//     margin-top: 5px;
+//     border: 2px solid #FDC800;
+    
+//     &:hover{
+//         background-color: #FDC800;
+//         border: 2px solid #FDC800;
+//         a{
+//             color: #000;
+//             font-weight: bold;
+//         }
+//     }
+// }
+// .search{
+//     background-color: white;
+//     border: 1px solid #BDBDBD;
+//     padding: 5px;
+//     margin-top: 5px;
+// }
+// .navigations{
+//     display: flex;
+//     li{
+//         padding-top: 12px;
+//         a{
+//             font-weight: bold;
+//         }
+//     }
+// }
+// .intro-section{
+//     padding-top: 7%;
+//     background-color: #F0F4F9;
+// }
+// .intro-left{
+//     h3{
+//         font-weight: bold;
+//         font-size: 30px;
+//     }
+//     h1{
+//         font-family: Georgia;
+//         padding-right: 5%;
+//         margin-bottom: 3.5%;
+//     }
+// }
+// .intro-left-btns{
+//     list-style: none;
+//     display: flex;
+//     padding-left: 0%;
+//     li{
+//         margin-right: 10px;
+//         background-color: #FDC800;
+//         a{
+//             padding: 12px 30px ;
+//             color: black;
+//             text-decoration: none;
+//             border-radius: 4px;
+            
+          
+//             font-weight: bold;
+           
+            
+//         }
+//         padding: 10px 0px;
+//     }
+//     .quote-btn{
+//         border: 2px solid ;
+//         border-color: #FDC800;
+//         &:hover{
+//             background-color: white;
+//             border: 2px solid #FDC800;
+           
+//                 color: #FDC800;
+//                 font-weight: bold;
+            
+//         }
+//     }
+// }
+// .read-more-btn{
+//     border: 2px solid ;
+//     background-color: white;
+//     border-color: #BDBDBD;
+//     &:hover{
+//         background-color: #FDC800;
+//         border-color: #FDC800;
+//     }
+    
+// }
+// .quote-btn{
+//     border: 1px solid #FDC800;
+// }
+// .intro-right{
+//     margin-top: -4%;
+//     padding-left: 7%;
+//     margin-bottom: 5%;
+    
+// }
+// .intro-right-mobile{
+//     display: none;
+// }
+
+// .countdown{
+//     background-color: #002147;
+//     border: 1px solid #BDBDBD;
+//     border-radius: 12px;
+//     color: white;
+//     ul{
+//         list-style: none;
+//         display: flex;
+//     }
+//     padding-left: 20px;
+// }
+// .countdown-left{
+//     img{
+//         padding-left: 25px;
+//     }
+// }
+// .countdown-text-left{
+// font-size: 30px;
+
+// font-weight: bold;
+// font-family: Georgia, 'Times New Roman', Times, serif;
+// span{
+//     color: #FDC800;
+// }
+// padding-right: 20px;
+
+// }
+// .countdown-text-right{
+//     text-align: right;
+//     font-size: 50px;
+//     font-weight: bold;
+//     span{
+//         font-size: 12px;
+//         font-weight: normal;
+//         color: #FDC800;
+        
+//     }
+//     padding-right: 10px;
+    
+// }
+// .countdown{
+//     margin-top: 50px;
+//     margin-bottom: 4%;
+//     padding-top: 20px;
+//     padding-bottom: 20px;
+
+// }
+// // countdown-style 
+// .slim-countdown-text{
+//     font-size: 10px;
+// }
+
+// .top-courses-title{
+//     text-align: center;
+//     margin-bottom: 3%;
+//     font-family: Georgia, 'Times New Roman', Times, serif;
+//     font-weight: bold;
+//     margin-top: 100px;
+// }
+// .course-container{
+   
+//         border: 1px solid #bdbdbdb0;
+//         width: 90%;
+//         margin-bottom: 20px;
+//         border-radius: 10px;
+//         a{
+//             text-decoration: none;
+//             color: black;
+//         }
+//         margin-left: 20px;
+    
+// }
+// .course-name{
+//     margin-top: 15px;
+//     padding-left: 10px;
+// }
+// .course-provider{
+//     font-size: 11px;
+//     padding-left: 10px;
+//     color: gray;
+// }
+// .feedback-section{
+//     margin-top: 10%;
+//     margin-bottom: 10%;
+// }
+// .feedback-left{
+//     position: relative;
+// img{
+    
+// }
+// }
+// .student-details{
+//     background-color: white;
+//     text-align: center;
+//     padding:10px 100px;
+//     position: absolute;
+//     left: 26%;
+//     top: 90%;
+//     border-radius: 5px;
+    
+
+//     .student-job{
+//         color: gray;
+//         font-size: 13px;
+//         line-height: 5px;
+//     }
+//     .student-name{
+//         font-size: 20px;
+//     }
+// }
+// .feedback-right{
+//     padding-top: 3%;
+
+// }
+// .feedback-right-title{
+//     font-family: Georgia, 'Times New Roman', Times, serif;
+//     font-weight: bold;
+//     span{
+//         color: #FDC800;
+//     }
+// }
+// .feedback-right-para{
+//     margin-bottom: 10%;
+// }
+
+// .taken-courses-feeback{
+//     background-color: #F0F4F9;
+//     border-radius: 6px;
+//     a{
+//         text-decoration: none;
+//         color: black;
+//     }
+   
+//     img , h6 , p{
+//         display: inline;
+//     }
+//     p{
+//         display: none;
+//     }
+//     h6{
+//         margin-left: 10px;
+//     }
+// }
+// .statistcs-section{
+//     background-color: #F0F4F9;
+//     background-image: url(../images/map.svg);
+//     background-repeat: no-repeat;
+//     background-size: contain;
+//     background-position: center;
+//     padding-top: 2%;
+//     padding-bottom: 2%;
+//     margin-bottom: 5%;
+// }
+// .stat-list{
+//     list-style: none;
+//     padding-left: 100px;
+//     text-align: center;
+//     font-family: Georgia, 'Times New Roman', Times, serif;
+//     h1{
+//         font-weight: bold;
+//     }
+//     h6{
+//         font-family: "inter";
+//         font-size: 12px;
+//         color: #00B2B2;
+//     }
+    
+// }
+// .subscribe-right{
+//     margin-top: 100px;
+// }
+// .subtitle{
+//     color: #FDC800;
+//     font-family: "inter";
+//     font-weight: bold;
+// }
+// .subscribe-right{
+//     h1{
+//         font-family: Georgia, 'Times New Roman', Times, serif;
+//         font-weight: bold;
+//         margin-bottom: 30px;
+//     }
+//     form{
+//         border: 1px solid #BDBDBD;
+//         width: fit-content;
+//         // padding-right: 3px;
+//         padding-left: 5px;
+//         // padding-top: 5px;
+//         // padding-bottom: 5px;
+//     }
+
+// }
+// .email-field{
+//     margin-left: 5px;
+//     padding-right: 100px;
+//     border: none;
+// }
+// .sub-btn{
+//  background-color: #FDC800;
+//  border: none;
+//  padding:7px 20px;
+
+//  border: 2px solid ;
+//  border-color: #FDC800;
+//  font-weight: bold;
+//  &:hover{
+//      background-color: white;
+//      border: 2px solid #FDC800;
+    
+//          color: #FDC800;
+//          font-weight: bold;
+     
+//  }
+// }
+// .subscribe-section{
+//     margin-bottom: 5%;
+// }
+// .footer-section{
+//     background-color: #002147;
+//     border: 1px solid #BDBDBD;
+//     color: white;
+//     padding-top: 3%;
+// }
+// .footer-left{
+//     ul{
+
+//         list-style: none;
+//     }
+//     li{
+//         margin-bottom: 20px;
+//         padding-right: 30%;
+//     }
+// }
+// .logo-footer{
+//     font-size: 20px;
+//     margin-left: 10px;
+// }
+// .footer-right{
+//     ul{
+//         list-style: none;
+//         a{
+//             text-decoration: none;
+//             color: white;
+//             font-size: 15px;
+//         }
+//         .list-title{
+//             font-weight: bold;
+//             font-size: 18px;
+//             margin-bottom: 10px;
+//         }
+//     }
+//     li{
+//         margin-bottom: 5px;
+//     }
+// }
+// .footer-of-footer{
+//     background-color: #FDC800;
+//     color: black;
+//     margin-top: 20px;
+//     ul{
+//         margin-bottom: 0px;
+//         list-style: none;
+//         display: flex;
+//     }
+//     padding-top: 1.5%;
+//     padding-bottom: 1.5%;
+//     li{
+//         margin-left: 10px;
+//     }
+
+// }
+// .copyrights{
+//     margin-right: auto;
+// }
+// @media screen and (max-width: 768px){
+//     .navlist{
+//         display: none;
+//     }
+   
+//     .intro-right-mobile{
+//         display: block;
+//         img{
+//             display: block;
+//             margin-left: auto;
+//             margin-right: auto;
+//             margin-bottom: 50px;
+//         }
+//     }
+//     .intro-right{
+//         display: none;
+//     }
+//     .intro-left{
+//         text-align: center;
+//         margin-bottom: 20px;
+//     }
+//     .intro-left-btns{
+//         margin-top: 20px;
+//         justify-content: center;
+//     }
+//     .intro-section{
+//         margin-bottom: 50px;
+//     }
+
+//     .countdown{
+//         .countdown-text-left{
+//             display: block;
+//             text-align: center;
+//             margin-top: 20px;
+            
+//         }
+//         .countdown-left{
+//             img{
+//                 display: none ;
+//                margin: auto;
+//             }
+//         }
+//         .countdown-text-right{
+//             text-align: center;
+//             padding: 0px;
+//             margin-bottom: 20px;
+//         }
+//         margin-bottom: 100px;
+//     }
+//     .top-courses-title{
+//         margin-bottom: 50px;
+//     }
+//     .course-container{
+//         margin-right: 0%;
+//         text-align: center;
+//         margin-bottom: 50px;
+//         img{
+//             width: 100%;
+//         }
+//     }
+    
+//     .feedback-left{
+//         margin-bottom: 60px;
+//         img{
+//             display: block;
+//             margin-left: auto;
+//             margin-right: auto;
+//         }
+//     }
+//     .feedback-right{
+//         text-align: center;
+//         .feedback-right-para{
+//             margin-bottom: 35px;
+//         }
+//         margin-bottom: 50px;
+//     }
+
+//     .stat1{
+//         padding-left: 0%;
+//     }
+//     .stat2{
+//         padding-left: 0%;
+//     }
+//     .stat3{
+//         padding-left: 0%;
+//     }
+//     .stat4{
+//         padding-left: 0%;
+//     }
+//     .statistcs-section{
+//         margin-bottom: 100px;
+//     }
+    
+//     .subscribe-left{
+//         img{
+//             display: block;
+//             margin-left: auto;
+//             margin-right: auto;
+//         }
+//     }
+//     .subscribe-right{
+//         text-align: center;
+//         margin-top: 50px;
+//         form{
+//             display: block;
+//             margin-left: auto;
+//             margin-right: auto;
+//             margin-bottom: 50px;
+//         }
+//     }
+
+//     .footer-section{
+//         text-align: center;
+//         padding-top: 50px;
+//     }
+//     .footer-left li{
+//         padding: 0%;
+        
+//     }
+//     .footer-left{
+//         margin-bottom: 50px;
+        
+//     }
+//     .footer-right{
+//         ul{
+//             margin-bottom: 50px;
+//         }
+//     }
+    
+    
+
+
+    
+
+// }
+// @media screen and (max-width: 991px){
+//     .navlist{
+//         display: none;
+//     }
+//     .ham{
+//         display: block;
+//     }
+//     // start of mobile nav
+//     .navlist-mobile{
+//         margin-left: auto;
+//         text-align: center;
+//         .navigations{
+//             display: block;
+//             padding: 0%;
+//         }
+//         .sign-up-search{
+//             display: block;
+//             padding: 0%;
+//         }
+//     }
+
+//     // end of mobile nav
+//     .intro-right-mobile{
+//         display: block;
+//         img{
+//             display: block;
+//             margin-left: auto;
+//             margin-right: auto;
+//             margin-bottom: 50px;
+//         }
+//     }
+//     .intro-right{
+//         display: none;
+//     }
+//     .intro-left{
+//         text-align: center;
+//         margin-bottom: 20px;
+//     }
+//     .intro-left-btns{
+//         margin-top: 20px;
+//         justify-content: center;
+//     }
+//     .intro-section{
+//         margin-bottom: 50px;
+//     }
+
+//     .countdown{
+//         .countdown-text-left{
+//             display: block;
+//             text-align: center;
+//             margin-top: 20px;
+            
+//         }
+//         .countdown-left{
+//             img{
+//                 display: none ;
+//                margin: auto;
+//             }
+//         }
+//         .countdown-text-right{
+//             text-align: center;
+//             padding: 0px;
+//             margin-bottom: 20px;
+//         }
+//         margin-bottom: 100px;
+//     }
+//     .top-courses-title{
+//         margin-bottom: 50px;
+//     }
+//     .course-container{
+//         margin-right: 0%;
+//         text-align: center;
+//         margin-bottom: 50px;
+//         img{
+//             width: 100%;
+//         }
+//     }
+    
+//     .feedback-left{
+//         margin-bottom: 60px;
+//         img{
+//             display: block;
+//             margin-left: auto;
+//             margin-right: auto;
+//         }
+//     }
+//     .feedback-right{
+//         text-align: center;
+//         .feedback-right-para{
+//             margin-bottom: 35px;
+//         }
+//         margin-bottom: 50px;
+//     }
+
+//     .stat1{
+//         padding-left: 0%;
+//     }
+//     .stat2{
+//         padding-left: 0%;
+//     }
+//     .stat3{
+//         padding-left: 0%;
+//     }
+//     .stat4{
+//         padding-left: 0%;
+//     }
+//     .statistcs-section{
+//         margin-bottom: 100px;
+//     }
+    
+//     .subscribe-left{
+//         img{
+//             display: block;
+//             margin-left: auto;
+//             margin-right: auto;
+//         }
+//     }
+//     .subscribe-right{
+//         text-align: center;
+//         margin-top: 50px;
+//         form{
+//             display: block;
+//             margin-left: auto;
+//             margin-right: auto;
+//             margin-bottom: 50px;
+//         }
+//     }
+
+//     .footer-section{
+//         text-align: center;
+//         padding-top: 50px;
+//     }
+//     .footer-left li{
+//         padding: 0%;
+        
+//     }
+//     .footer-left{
+//         margin-bottom: 50px;
+        
+//     }
+//     .footer-right{
+//         ul{
+//             margin-bottom: 50px;
+//         }
+//     }
+    
+    
+    
+
+
+    
+
+// }
+
+// @media screen and (max-width: 1200px){
+//     .email-field{
+//     padding-right: 0%;
+// }
+
+// }
+// @media screen and (max-width: 640px){
+//     .feedback-left img{
+//         padding-right: 10px;
+//     }
+// }
+// @media screen and (max-width: 405px){
+//   .subscribe-right form input {
+//     font-size: 10px;
+//   }
+//   .subscribe-right form .sub-btn {
+//     padding: 10px 0px;
+//   }
+
+// }
+// @media screen and (max-width: 414px){
+//     .feedback-left{
+//         .student-job{
+//             font-size: 10px;
+//         }
+//     }
+    
+// }
+// @media screen and (max-width: 455px){
+//    .taken-courses-feeback{
+//       h6{
+//         font-size: 10px;
+//       }
+//    }
+    
+// }
