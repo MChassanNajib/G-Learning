@@ -15,7 +15,7 @@
 <body>
     <div class="yabegitu">
         <h3 id="text1" class="end1">Let’s get started now!</h3>
-        <h3 id="text2" class="end2">Or <a href="/register">create</a> an account if not registered yet</h3>
+        <h3 id="text2" class="end2">Or <a href="/register">create</a> an account if not Sign Up yet</h3>
     </div>
 
     <div class="login-page">
@@ -28,7 +28,7 @@
                 <input type="text" value="{{ Session::get('name') }}" name="name" class="form-control" id="name" placeholder="Username">
                 <input type="email" value="{{ Session::get('email') }}" name="email" class="form-control" id="email" placeholder="name@example.com">
                 <input type="password" class="form-control" id="password" name="password" placeholder="Password">
-                <button>create</button>
+                <button>Sign Up</button>
                 <p class="message">Already registered? <a href="/login/all">Sign In</a></p>
             </form>
         </div>

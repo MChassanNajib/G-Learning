@@ -33,11 +33,11 @@ Route::get('/register', function () {
 });
 
 route::group(['prefix' => '/login'], function () {
-    Route::get('/all', [logincontroller::class, 'index']);
+    Route::get('/all', [logincontroller::class, 'index'])->name('login')->middleware('guest');
     Route::post('/login', [logincontroller::class, 'login']);
 });
 route::group(['prefix' => '/register'], function () {
-    Route::get('/all', [registercontroller::class, 'index']);
+    Route::get('/all', [registercontroller::class, 'index'])->name('register')->middleware('guest');
     Route::post('/create', [registercontroller::class, 'create']);
 });
 

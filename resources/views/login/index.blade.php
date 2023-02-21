@@ -27,9 +27,9 @@
                 @csrf
                 <input type="email" value="{{ Session::get('email') }}" name="email" id="email" class="form-control"  placeholder="name@example.com">
                 <input type="password" class="form-control" id="password" name="password" placeholder="Password">
-                <button>Log In</button>
+                <button>Sign In</button>
                 <p class="message">Don’t have account? <a href="/register">Sign up</a></p>
-                <a class="w-100 btn btn-lg btn-primary" type="submit" href="{{ url('login/google') }}">Login</a>
+                <a class="w-100 btn btn-lg btn-primary" type="submit" href="{{ url('login/google') }}">Sign In</a>
             </form>
         </div>
     </div>
