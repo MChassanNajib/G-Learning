@@ -8,14 +8,14 @@
               <img src="images/location-icon.svg" alt="">
               <span>Jalan Sukun Raya No. 9, Besito, Gebok, Besito, Gebog, Kabupaten Kudus, Jawa Tengah 59333, Indonesia.</span>
           </li>
-          <li ><a href="https://r.search.yahoo.com/_ylt=AwrOsDzEQ.Njk84HrA9XNyoA;_ylu=Y29sbwNncTEEcG9zAzEEdnRpZAMEc2VjA3Ny/RV=2/RE=1675867204/RO=10/RU=https%3a%2f%2fsmkrus.sch.id%2f/RK=2/RS=OliDp5hualQhgVe6tc_q0f0Ly24-">
+          <li >
               <img src="images/email-icon-light.svg" alt="">
-              <span style="text-decoration: none;">smkrus.sch.id</span>
+              <span style="text-decoration: none;">smkradenumarsaidkudus@gmail.com</span>
             </a>
           </li>
           <li>
               <img src="images/phone-icon.svg" alt="">
-              <span >62+ 812810208291</span>
+              <span >+62 812810208291</span>
           </li>
       </ul>
       </div>

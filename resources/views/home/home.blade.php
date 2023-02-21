@@ -89,45 +89,32 @@
 
         <div class="col-lg-4 col-md-6 mb-4">
           <div class="course-container">
-          <a href=""
-            ><img src="images/fitur1.jpg" class="img-fluid" alt="course"
-          /></a>
-          <a href=""
-            ><h6 class="course-name">
+          <img src="images/fitur1.jpg" class="img-fluid" alt="course"
+          />
+          <h6 class="course-name">
               Di Kursus kami menyediakan berbagai macam bahasa di Dunia
-            </h6></a
-          >
-          <a href=""><p class="course-provider">Lebih dari 30+ bahasa</p></a>
+            </h6>
+            <p class="course-provider">Lebih dari 30+ bahasa</p>
         </div>
         </div>
         <div class="col-lg-4 col-md-6 mb-4">
           <div class="course-container">
-          <a href=""
-            ><img src="images/fitur8.jpg" class="img-fluid" alt="course"
-          /></a>
-          <a href=""
-            ><h6 class="course-name">
+          <img src="images/fitur8.jpg" class="img-fluid" alt="course"
+          />
+          <h6 class="course-name">
               Di Kursus kami terdapat webinar untuk setiap Minggunya
-            </h6></a
-          >
-          <a href=""
-            ><p class="course-provider">Webinar</p></a
-          >
+            </h6>
+            <p class="course-provider">Webinar</p>
         </div>
         </div>
         <div class="col-lg-4 col-md-6 mb-4">
           <div class="course-container">
-          <a href=""
-            ><img src="images/fitur3.jpg" class="img-fluid" alt="course"
-          /></a>
-          <a href=""
-            ><h6 class="course-name">
+          <img src="images/fitur3.jpg" class="img-fluid" alt="course"
+          />
+          <h6 class="course-name">
               Tidak hanya Orang-orang dewasa, Anak-anak juga dapat mengikuti Kursus
-            </h6></a
-          >
-          <a href=""
-            ><p class="course-provider">Kursus Khusus Anak</p></a
-          >
+            </h6>
+            <p class="course-provider">Kursus Khusus Anak</p>
         
         </div>
         </div>
@@ -135,45 +122,31 @@
        
         <div class="col-lg-4 col-md-6">
           <div class="course-container">
-          <a href=""
-            ><img src="images/Courses 6.jpg" class="img-fluid" alt="course"
-          /></a>
-          <a href=""
-            ><h6 class="course-name">
+            <img src="images/Courses 6.jpg" class="img-fluid" alt="course"
+          /><h6 class="course-name">
               Pengguna tidak perlu khawatir tentang Jadwal pembelajaran 
-            </h6></a
-          >
-          <a href=""
-            ><p class="course-provider">Atur Jadwal Sendiri</p></a
-          >
+            </h6>
+            <p class="course-provider">Atur Jadwal Sendiri</p>
         </div>
         </div>
         <div class="col-lg-4 col-md-6">
           <div class="course-container">
-          <a href=""
-            ><img src="images/Courses 8.jpg" class="img-fluid" alt="course"
-          /></a>
-          <a href=""
-            ><h6 class="course-name">
+            <img src="images/Courses 8.jpg" class="img-fluid" alt="course"
+          />
+          <h6 class="course-name">
               Pengguna harus memahami materi yang diberikan
-            </h6></a
-          >
-          <a href=""><p class="course-provider">Berpikir yang Baik</p></a>
+            </h6>
+            <p class="course-provider">Berpikir yang Baik</p>
         </div>
         </div>
         <div class="col-lg-4 col-md-6">
           <div class="course-container">
-          <a href=""
-            ><img src="images/Courses 5.jpg" class="img-fluid" alt="course"
-          /></a>
-          <a href=""
-            ><h6 class="course-name">
+            <img src="images/Courses 5.jpg" class="img-fluid" alt="course"
+          />
+          <h6 class="course-name">
               Design Website yang tidak membuat pengguna bosan
-            </h6></a
-          >
-          <a href=""
-            ><p class="course-provider">Design Website</p></a
-          >
+            </h6>
+          <p class="course-provider">Design Website</p>
         </div>
         </div>
       
