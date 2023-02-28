@@ -24,6 +24,10 @@ Route::get('/', function () {
     return view('home.home');
 });
 
+Route::get('/admin', function () {
+    return view('admin.layouts.home');
+});
+
 Route::get('/login', function () {
     return view('login.index');
 });
