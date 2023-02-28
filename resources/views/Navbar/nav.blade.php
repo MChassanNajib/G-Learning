@@ -14,14 +14,15 @@
 
                 <form class="col-12 col-lg-auto mb-3 mb-lg-0 me-lg-3" role="search">
                     <input type="search" class="form-control form-control-white text-bg-white" placeholder="Search ..."
-                        aria-label="Search">
+                        aria-label="Search" style="margin-left: 150px;">
                 </form>
 
                 <ul class="nav-pills navbar-nav ms-auto ">
                     @auth
                         <li class="nav-link dropdown ">
                             <a class="text-light nav-link dropdown-toggle bg-primary " href="#" role="button"
-                                data-bs-toggle="dropdown" style="
+                                data-bs-toggle="dropdown"
+                                style="
                                 padding-right: 10px;
                                 padding-left: 10px;">
                                 Hi, {{ auth()->user()->name }}
